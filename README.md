@@ -1,9 +1,7 @@
 ## Hello, World 👋
 I'm Caroline!
 
-I'm currently going through Computer Science college!
-
-And I'm trying my best!
+I'm trying my best!
 
 <br />
   <p align = "center">
